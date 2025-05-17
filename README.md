@@ -9,6 +9,7 @@ This is completely dynamic project.
 
 pending work: Contact us page , Download certificate in jpg and png format, admin interface.
 
+You have to install the composer for downloading the pdf file. The certificate generation will work by the PHP library name mPDF. Here we have attached the composer for windows. If you are a linux user than first install it on your root project folder then run the project
 
 
 
